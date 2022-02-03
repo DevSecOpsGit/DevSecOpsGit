@@ -4,9 +4,9 @@ I am Rodrigo Lima. I am a Coder Web.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently learning ** ReactJS, REST API, and MongoDB **
+- 🌱 I’m currently learning ** VueJS, REST API, and MongoDB **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with ReactJS **
+- 🤔 I’m looking for help with VueJS **
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 
@@ -33,7 +33,8 @@ I am Rodrigo Lima. I am a Coder Web.
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <!--<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">-->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue-339933?style=for-the-badge&logo=vue&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
