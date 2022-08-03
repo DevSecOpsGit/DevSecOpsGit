@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Lima CEO at <b>CyberStorm TI</b></h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Lima CEO at <b>GeniusDev - Information Technology Specialist</b></h1>
 
 I am Rodrigo Lima. I am a Coder Web.
 
