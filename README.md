@@ -4,9 +4,7 @@ I am Rodrigo Lima. I am a Coder Web.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently learning ** VueJS, REST API, and MongoDB **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with VueJS **
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 
